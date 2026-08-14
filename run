@@ -1,2 +1,0 @@
-//this is command to run this
-g++ -std=c++17 -Iinclude src/*.cpp -o build/parking.exe ; ./build/parking.exe
