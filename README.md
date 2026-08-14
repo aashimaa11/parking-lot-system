@@ -22,15 +22,19 @@ A C++ implementation of a multi-level parking lot management system using OOP pr
 
 This project simulates a **real-world parking lot system** where:
 
-- 🚗 **Vehicles** of different types (Car, Bike, Truck, Electric) can be parked
-- 🅿️ **Spots** are intelligently allocated based on vehicle size and type
-- 💰 **Pricing** is calculated dynamically using different strategies (Hourly, Flat Rate, Tiered)
-- 🎫 **Tickets** are generated for each vehicle with entry/exit timestamps
-- 📊 **Revenue** is tracked automatically across all transactions
-- 🔍 **Status** can be viewed in real-time showing which spots are free/occupied
+-  **Vehicles** of different types (Car, Bike, Truck, Electric) can be parked
+-  **Spots** are intelligently allocated based on vehicle size and type
+-  **Pricing** is calculated dynamically using different strategies (Hourly, Flat Rate, Tiered)
+-  **Tickets** are generated for each vehicle with entry/exit timestamps
+-  **Revenue** is tracked automatically across all transactions
+-  **Status** can be viewed in real-time showing which spots are free/occupied
 
 The system is designed with **clean architecture**, making it easy to add new vehicle types, spot types, or pricing strategies without modifying existing code.
 
+**Screenshots**
+<img width="1790" height="961" alt="parking-lot screenshot1" src="https://github.com/user-attachments/assets/ea46ca87-4656-4964-a105-a45a1ddf0674" />
+
+<img width="1778" height="962" alt="parking-lot screenshot2" src="https://github.com/user-attachments/assets/f76e6b74-2955-46ba-981f-00aab4292e1c" />
 
 ## 🚀 How to Run
 
