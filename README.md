@@ -36,9 +36,4 @@ The system is designed with **clean architecture**, making it easy to add new ve
 
 <img width="1778" height="962" alt="parking-lot screenshot2" src="https://github.com/user-attachments/assets/f76e6b74-2955-46ba-981f-00aab4292e1c" />
 
-## 🚀 How to Run
 
-### Method: Using Terminal
-```bash
-g++ -std=c++17 -Iinclude src/*.cpp -o build/parking_lot.exe
-./build/parking_lot.exe
